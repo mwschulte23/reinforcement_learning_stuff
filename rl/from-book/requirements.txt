@@ -1,0 +1,13 @@
+numpy
+atari-py
+gym
+ptan
+opencv-python
+scipy
+torch
+torchvision
+tensorboard-pytorch
+tensorflow
+tensorboard
+stable_baselines
+alpaca_trade_api
